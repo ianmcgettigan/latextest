@@ -7,4 +7,5 @@ the numerous files I will have for my thesis,
 which of course I will write using LaTeX.
 
 I. J. McGettigan
+
 Sun Oct 6 2024
