@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1728220195.2427 "accountingpractice.tex" "accountingpractice.pdf" "accountingpractice" 1728220196.37235 0
+["lualatex"] 1728484859.62669 "accountingpractice.tex" "accountingpractice.pdf" "accountingpractice" 1728484860.67488 0
   "/System/Library/Fonts/Apple Color Emoji.ttc" 1711001603 188273800 3d2b69c92551dfd1ae78d08aa76459a1 ""
   "/Users/ianmcgettigan/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/hb/74fe9f906fe1bc602e87863714a3988819168bb5b97d2048d42e5480f4f1becc.luc" 1727965083.19009 163568 fc70652fb6f1f804fb0e82b0d1ee6653 ""
   "/Users/ianmcgettigan/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1727965082.91017 128410 d0a7d6c5b84cb323c732980fd1a15945 ""
@@ -136,8 +136,8 @@
   "/usr/local/texlive/2024/texmf-dist/tex/luatex/luaotfload/luaotfload.lua" 1709155629 13565 50482dad4c221a79dbdbb982122baf8c ""
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1711823660.46089 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/luahbtex/lualatex.fmt" 1711823641 12257119 2635e83b36cbe3292507d028dcba313b ""
-  "accountingpractice.aux" 1728220196.23786 824 fb468b44f226ac57bcd7b1e95b279383 "lualatex"
-  "accountingpractice.tex" 1728220190.70642 12621 2d08d51a120d983a87d43893a7718228 ""
+  "accountingpractice.aux" 1728484860.56778 923 e6805534c1bede3a2717da113b2b525b "lualatex"
+  "accountingpractice.tex" 1728484857.33034 13362 a41b5eddf29159966ee04285f1196f28 ""
   (generated)
   "accountingpractice.aux"
   "accountingpractice.log"

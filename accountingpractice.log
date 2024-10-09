@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.30)  6 OCT 2024 15:09
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.30)  9 OCT 2024 16:40
  restricted system commands enabled.
  file:line:error style messages enabled.
 **accountingpractice.tex
@@ -388,7 +388,7 @@ Overfull \hbox (17.13948pt too wide) detected at line 50
 [1
 
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6] [7] [8] [9<./luatex.77MlcJ/1.png>] [10] [11] [12] (./accountingpractice.aux)
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6] [7] [8] [9<./luatex.BKfqMe/1.png>] [10] [11] [12] (./accountingpractice.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -405,7 +405,7 @@ Here is how much of LuaTeX's memory you used:
  72 fonts using 7383559 bytes
  108i,15n,102p,10912b,336s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </System/Library/Fonts/Apple Color Emoji.ttc></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmsans10-bold.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on accountingpractice.pdf (12 pages, 102648 bytes).
+Output written on accountingpractice.pdf (12 pages, 103829 bytes).
 
 PDF statistics: 106 PDF objects out of 1000 (max. 8388607)
  65 compressed objects within 1 object stream
