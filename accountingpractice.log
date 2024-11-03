@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.30)  11 OCT 2024 12:43
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.3.30)  3 NOV 2024 15:24
  restricted system commands enabled.
  file:line:error style messages enabled.
 **accountingpractice.tex
@@ -388,7 +388,11 @@ Overfull \hbox (17.13948pt too wide) detected at line 50
 [1
 
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6] [7] [8] [9<./luatex.Uh9TNK/1.png>] [10] [11] [12] (./accountingpractice.aux)
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6] [7] [8] [9<./luatex.XJNcvJ/1.png>] [10] [11] [12] [13] [14] [15] [16] [17
+
+] [18
+
+] (./accountingpractice.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -396,19 +400,19 @@ L3 programming layer <2024-02-20>
 )
 
 Here is how much of LuaTeX's memory you used:
- 11733 strings out of 476447
+ 11744 strings out of 476447
  100000,1977958 words of node,token memory allocated
- 951 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 4 disc, 8 glue, 10 kern, 45 glyph, 7 attribute, 58 glue_spec, 7 attribute_list, 1 write nodes
-   avail lists: 1:1,2:402,3:100,4:17,5:220,6:31,7:3697,8:21,9:507,10:15,11:231
- 33784 multiletter control sequences out of 65536+600000
- 72 fonts using 7383559 bytes
+ 551 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 2 glyph, 9 attribute, 58 glue_spec, 9 attribute_list, 1 write nodes
+   avail lists: 1:1,2:443,3:100,4:17,5:227,6:42,7:3746,8:21,9:622,10:15,11:235
+ 33795 multiletter control sequences out of 65536+600000
+ 74 fonts using 7645815 bytes
  108i,15n,102p,10912b,336s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</System/Library/Fonts/Apple Color Emoji.ttc></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmsans10-bold.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on accountingpractice.pdf (12 pages, 104176 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmromancaps10-regular.otf></System/Library/Fonts/Apple Color Emoji.ttc></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmsans10-bold.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on accountingpractice.pdf (18 pages, 115828 bytes).
 
-PDF statistics: 106 PDF objects out of 1000 (max. 8388607)
- 65 compressed objects within 1 object stream
+PDF statistics: 131 PDF objects out of 1000 (max. 8388607)
+ 81 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

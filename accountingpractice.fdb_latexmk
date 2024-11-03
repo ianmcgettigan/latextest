@@ -1,15 +1,17 @@
 # Fdb version 4
-["lualatex"] 1728643388.59427 "accountingpractice.tex" "accountingpractice.pdf" "accountingpractice" 1728643389.82129 0
+["lualatex"] 1730643869.48085 "accountingpractice.tex" "accountingpractice.pdf" "accountingpractice" 1730643870.64107 0
   "/System/Library/Fonts/Apple Color Emoji.ttc" 1711001603 188273800 3d2b69c92551dfd1ae78d08aa76459a1 ""
   "/Users/ianmcgettigan/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/hb/74fe9f906fe1bc602e87863714a3988819168bb5b97d2048d42e5480f4f1becc.luc" 1727965083.19009 163568 fc70652fb6f1f804fb0e82b0d1ee6653 ""
   "/Users/ianmcgettigan/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1727965082.91017 128410 d0a7d6c5b84cb323c732980fd1a15945 ""
   "/Users/ianmcgettigan/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc" 1727965083.53328 136312 0e3e64866d362ca6507213d4e45d4d17 ""
   "/Users/ianmcgettigan/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1726753289.76725 127327 76a1047b4dbbf48407ed6ace26562c1b ""
   "/Users/ianmcgettigan/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-regular.luc" 1727965083.30113 127670 049e7acc85bd3faf58355383ea5fbd4e ""
+  "/Users/ianmcgettigan/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman17-regular.luc" 1730643688.32257 128921 377e865ddd736056c4287854050786c0 ""
   "/Users/ianmcgettigan/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman5-regular.luc" 1727965083.44581 125967 096c15004e8ec9d74a8c24e609d7d434 ""
   "/Users/ianmcgettigan/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman6-regular.luc" 1727965083.40676 128516 b62d5d2d5c2a70f7d2adb0c749b75720 ""
   "/Users/ianmcgettigan/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman7-regular.luc" 1727965083.33341 128375 600097605509b78be1a5159aaa7a551d ""
   "/Users/ianmcgettigan/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman8-regular.luc" 1727965083.3749 128146 24847e1bdc816aa64b7512cf34bb21cb ""
+  "/Users/ianmcgettigan/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmromancaps10-regular.luc" 1730643616.46306 120247 bc13be501d5dca4eaba9236f01ef57ca ""
   "/Users/ianmcgettigan/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmsans10-bold.luc" 1727965083.26479 128104 5b9663a1e6bba05d1fb260540f7cd258 ""
   "/Users/ianmcgettigan/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmsans10-regular.luc" 1727965083.23261 127646 1458898389ea22f66621717ac339a275 ""
   "/Users/ianmcgettigan/Library/texlive/2024/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc" 1727965083.55436 434 d26c5091b9a5a6a16e5d50528e2a9b88 ""
@@ -19,6 +21,7 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf" 1255129361 111536 ae9d1b331000d544f47e5223081b7b54 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf" 1255129361 110400 d844cffffa1af59f9d2bb1bfdb6f1a2c ""
   "/usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf" 1255129361 111948 cee9e390fd6d23cfb4d6871ba2a9ee5b ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmromancaps10-regular.otf" 1255129361 108740 82741d58d9334b5242a3acb1d982bd05 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmsans10-bold.otf" 1255129361 107448 a9e5b7aaaf5f74194deee407f2fd1552 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -136,8 +139,8 @@
   "/usr/local/texlive/2024/texmf-dist/tex/luatex/luaotfload/luaotfload.lua" 1709155629 13565 50482dad4c221a79dbdbb982122baf8c ""
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1711823660.46089 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/luahbtex/lualatex.fmt" 1711823641 12257119 2635e83b36cbe3292507d028dcba313b ""
-  "accountingpractice.aux" 1728643389.63882 923 e6805534c1bede3a2717da113b2b525b "lualatex"
-  "accountingpractice.tex" 1728643387.30793 13713 5e5a0806ecbb85471a9a18c4110f54dc ""
+  "accountingpractice.aux" 1730643870.50426 1029 c8e1d0e333fb3a42e7fa05311f9f7b75 "lualatex"
+  "accountingpractice.tex" 1730643867.6741 17991 89405dccb12cbf46ca6b841a84ba6519 ""
   (generated)
   "accountingpractice.aux"
   "accountingpractice.log"
