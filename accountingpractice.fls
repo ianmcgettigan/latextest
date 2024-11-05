@@ -151,8 +151,8 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr5.tfm
 OUTPUT accountingpractice.pdf
 INPUT /usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /Users/ianmcgettigan/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc
-OUTPUT luatex.XJNcvJ/1.png
-INPUT ./luatex.XJNcvJ/1.png
+OUTPUT luatex.QKccOl/1.png
+INPUT ./luatex.QKccOl/1.png
 INPUT /Users/ianmcgettigan/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmroman17-regular.luc
 INPUT /Users/ianmcgettigan/Library/texlive/2024/texmf-var/luatex-cache/generic/fonts/otl/lmromancaps10-regular.luc
 INPUT ./accountingpractice.aux
